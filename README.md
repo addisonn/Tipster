@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.ibb.co/7pzxXZ1/tripster-demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/jCp6aHb.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LICEcap](http://www.cockos.com/licecap/).
 
