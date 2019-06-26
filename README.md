@@ -4,7 +4,7 @@ Tipster is a tip calculator application for iOS.
 
 Submitted by: Addison Zhang
 
-Time spent: **4** hours spent in total
+Time spent: **4.5** hours spent in total
 
 ## User Stories
 
@@ -14,32 +14,30 @@ The following **required** functionality is complete:
 
 The following **optional** features are implemented:
 
-* [ ] Settings page to change the default tip percentage.
-* [x] UI animations: fading and sliding of objects
-* [ ] Remembering the bill amount across app restarts (if <10mins)
+* [x] Settings page to change the default tip percentage, sync main page with settings.
+* [x] UI animations: fading and sliding of objects.
+* [ ] Remembering the bill amount across app restarts (if <10mins).
 * [ ] Using locale-specific currency and currency thousands separators.
 * [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://g.recordit.co/KCkR22w0Qk.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://ibb.co/pKP6xML' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [RecordIt](http://g.recordit.co/KCkR22w0Qk.gif).
+GIF created with [LICEcap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Couldn't get headphones - it was difficult to "listen" and learn from the videoes
-Implementing the settings part of the app - thinking about how data could be synchonized, what the logic should be, how to link functions and storing data.
+Unfortunate start since I was unable to get headphones - it was difficult to "listen" and learn from the videoes
+The most challenging part would be implementing the settings part of the app: thinking about how to synchronize data for all scenarios, building logic specific to each frame, storing data correctly and linking different functions.
 
 ## Credits
-
-List an 3rd party libraries, icons, graphics, or other assets you used in your app.
 
 - [AFNetworking](https://github.com/AFNetworking/AFNetworking) - networking task library
 
